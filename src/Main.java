@@ -5,5 +5,8 @@ public class Main {
 
         String git2 = "Git is SuperCool";
         System.out.println(git2);
+
+        String git3 = "Git is PrettyCool";
+        System.out.println(git3);
     }
 }
